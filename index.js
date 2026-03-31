@@ -6,8 +6,8 @@ const client = new Client({
 });
 
 const TOKEN = process.env.TOKEN;
-const GUILD_ID = "حط ID السيرفر";
-const CHANNEL_ID = "حط ID الفويس";
+const GUILD_ID = "1488304780315984017";
+const CHANNEL_ID = "1488304782652342284";
 
 client.once('ready', () => {
   console.log('✅ البوت خدام');
